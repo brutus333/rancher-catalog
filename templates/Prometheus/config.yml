@@ -1,0 +1,5 @@
+name: Prometheus
+description: |
+  Prometheus and friends, Consul-based auto-discovering monitoring solution for Rancher deployments.
+version: 1.0.4
+category: Monitoring
